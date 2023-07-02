@@ -116,6 +116,11 @@
         };
 
         python = {
+          path = ./purepython;
+          description = "PurePython development environment";
+        };
+
+        python = {
           path = ./python;
           description = "Python development environment";
         };
