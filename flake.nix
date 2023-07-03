@@ -115,7 +115,7 @@
           description = "Purescript development environment";
         };
 
-        python = {
+        purepython = {
           path = ./purepython;
           description = "PurePython development environment";
         };
